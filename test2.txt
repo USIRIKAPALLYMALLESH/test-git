@@ -1,2 +1,3 @@
+
 this is the second text.
-hello this is good.
+the new line was added in it.
