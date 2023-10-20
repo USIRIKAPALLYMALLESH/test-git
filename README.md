@@ -8,3 +8,4 @@
 ---
 # Paragraph
 This is a paragraph.
+The paragraph is in *italic*.
